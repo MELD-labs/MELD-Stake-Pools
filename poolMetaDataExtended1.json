@@ -1,0 +1,38 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/MELD-labs/MELD-Stake-Pools/main/meld_ispo_01.png",
+        "url_png_logo": "https://raw.githubusercontent.com/MELD-labs/MELD-Stake-Pools/main/meld_ispo_01.png",
+        "location": "Singapore",
+        "social": {
+            "twitter_handle": "MELD_labs",
+            "telegram_handle": "MELD_Global",
+            "facebook_handle": "defiprotocol",
+            "youtube_handle": "UCD6zDpq1cI68jJUS_lidwAA",
+            "twitch_handle": "",
+            "discord_handle": "b5GsPjE8",
+            "github_handle": "MELD-labs"
+        },
+        "company": {
+            "name": "MELD LABS PTE. LTD.",
+            "addr": "20 CECIL STREET #05-03, PLUS, Singapore, 049705",
+            "city": "Singapore",
+            "country": "Singapore",
+            "company_id": "202114817C",
+            "vat_id": "202114817C"
+        },
+        "about": {
+            "me": "MELD is an open-source, non-custodial DeFi liquidity protocol for lending, borrowing and earning on crypto and fiat.",
+            "server": "Running Cardano nodes on proven Cloud services.",
+            "company": "MELD LABS PTE. LTD."
+        }
+    },
+    "my-pool-ids": {
+        "0": "ed6b2d4bb0ac257bc4182e8671eef06c8d2e4d7c11871ad5f213a52c"
+    },
+    "when-satured-then-recommend": {
+        "0": "ed6b2d4bb0ac257bc4182e8671eef06c8d2e4d7c11871ad5f213a52c"
+    },
+    "telegram-admin-handle": {
+        "0": "StuartDeFi"
+    }
+}

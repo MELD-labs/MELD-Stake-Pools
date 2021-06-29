@@ -1,0 +1,7 @@
+{
+"name": "MELD ISPO 2 (50% MELD 50% ADA)",
+"description": "During the ISPO (32 Epochs starting from July 1st), 50% of the stake rewards will go to MELD development. At the end of the ISPO, delegators will be rewarded MELD tokens in an airdrop for their participation. For each staked ADA you get 0.0325 MELD.",
+"ticker": "MELD2",
+"homepage": "https://meld.com",
+"extended": "https://git.io/JcOJi"
+}

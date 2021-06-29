@@ -27,7 +27,8 @@
         }
     },
     "my-pool-ids": {
-        "0": "ed6b2d4bb0ac257bc4182e8671eef06c8d2e4d7c11871ad5f213a52c"
+        "0": "ed6b2d4bb0ac257bc4182e8671eef06c8d2e4d7c11871ad5f213a52c",
+        "1": "49211551021fac1c4b1f210b1818be9ed44acce3eca278bf04c8a810"
     },
     "when-satured-then-recommend": {
         "0": "ed6b2d4bb0ac257bc4182e8671eef06c8d2e4d7c11871ad5f213a52c"
